@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Paul.
 - 👀 I’m interested in app development (Android and React Native).
-- 🌱 I’m currently working as an Android Developer for NortonLifeLock.
+- 🌱 I’m currently learning Rust.
 - 📫 You can reach out to me at the socials provided :)
 
 <!---
