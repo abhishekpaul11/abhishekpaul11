@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Paul.
 - 👀 I’m interested in app development (Android and React Native).
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently working as the founding engineer for a femtech start-up called Sachi Health at Columbia Business School.
 - 📫 You can reach out to me at the socials provided :)
 
 <!---
