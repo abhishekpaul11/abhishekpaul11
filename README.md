@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Paul.
 - 👀 I’m interested in app development (Android and React Native).
-- 🌱 I’m currently working as the founding engineer for a femtech start-up called Sachi Health at Columbia Business School.
+- 🌱 I’m currently working as a Software Engineer at InstaLily AI, New York City. We build AI powered B2B sales platforms for different clients.
 - 📫 You can reach out to me at the socials provided :)
 
 <!---
